@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "get_ip_info", "get_ip_info.pyproj", "{C264DEB1-8EC3-4171-80A2-8601043D8A56}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C264DEB1-8EC3-4171-80A2-8601043D8A56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C264DEB1-8EC3-4171-80A2-8601043D8A56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {33A74129-7BB0-48BB-B0A7-01ACA938C486}
+	EndGlobalSection
+EndGlobal
